@@ -1,0 +1,14 @@
+C:\Users\valfl\Desktop\Cours\CNAM_1ere_annee\Sem1\poo\TP0\obj\Debug\net8.0\TP0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\valfl\Desktop\Cours\CNAM_1ere_annee\Sem1\poo\TP0\obj\Debug\net8.0\TP0.AssemblyInfoInputs.cache
+C:\Users\valfl\Desktop\Cours\CNAM_1ere_annee\Sem1\poo\TP0\obj\Debug\net8.0\TP0.AssemblyInfo.cs
+C:\Users\valfl\Desktop\Cours\CNAM_1ere_annee\Sem1\poo\TP0\obj\Debug\net8.0\TP0.csproj.CoreCompileInputs.cache
+C:\Users\valfl\Desktop\Cours\CNAM_1ere_annee\Sem1\poo\TP0\bin\Debug\net8.0\TP0.exe
+C:\Users\valfl\Desktop\Cours\CNAM_1ere_annee\Sem1\poo\TP0\bin\Debug\net8.0\TP0.deps.json
+C:\Users\valfl\Desktop\Cours\CNAM_1ere_annee\Sem1\poo\TP0\bin\Debug\net8.0\TP0.runtimeconfig.json
+C:\Users\valfl\Desktop\Cours\CNAM_1ere_annee\Sem1\poo\TP0\bin\Debug\net8.0\TP0.dll
+C:\Users\valfl\Desktop\Cours\CNAM_1ere_annee\Sem1\poo\TP0\bin\Debug\net8.0\TP0.pdb
+C:\Users\valfl\Desktop\Cours\CNAM_1ere_annee\Sem1\poo\TP0\obj\Debug\net8.0\TP0.dll
+C:\Users\valfl\Desktop\Cours\CNAM_1ere_annee\Sem1\poo\TP0\obj\Debug\net8.0\refint\TP0.dll
+C:\Users\valfl\Desktop\Cours\CNAM_1ere_annee\Sem1\poo\TP0\obj\Debug\net8.0\TP0.pdb
+C:\Users\valfl\Desktop\Cours\CNAM_1ere_annee\Sem1\poo\TP0\obj\Debug\net8.0\TP0.genruntimeconfig.cache
+C:\Users\valfl\Desktop\Cours\CNAM_1ere_annee\Sem1\poo\TP0\obj\Debug\net8.0\ref\TP0.dll
